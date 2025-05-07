@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">unibites</string>
+
+        <!-- Add this line for the back icon description -->
+        <string name="back">Back</string>
+
+</resources>

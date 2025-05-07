@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" >
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Unibites"
+        tools:targetApi="31" >
+
+        <!-- Splash Screen (Launch screen) -->
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Home (Main screen) -->
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+
+        <!-- Order History screen -->
+        <activity
+            android:name=".OrderHistoryActivity"
+            android:exported="false" />
+
+        <!-- Under Development screen -->
+        <activity
+            android:name=".UnderDevelopmentActivity"
+            android:exported="false" />
+
+        <!-- Cart screen -->
+        <activity
+            android:name=".CartActivity"
+            android:exported="false" />
+
+        <!-- Reorder screen -->
+        <activity
+            android:name=".ReorderActivity"
+            android:exported="false" />
+
+        <!-- Payment screen -->
+        <activity
+            android:name=".PaymentActivity"
+            android:exported="false" />
+
+        <!-- Food Menu screen -->
+        <activity
+            android:name=".FoodMenuActivity"
+            android:exported="false" />
+            
+        <!-- Legacy Main Activity -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>
