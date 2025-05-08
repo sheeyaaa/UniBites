@@ -22,7 +22,6 @@
     <string name="google_app_id" translatable="false">1:687704802380:android:a9c02e3d40fdffec10e0e9</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAFgZ5JyjE620YnrPIzppB5bq5KrDMNo1c</string>
     <string name="google_storage_bucket" translatable="false">univanibites.firebasestorage.app</string>
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="project_id" translatable="false">univanibites</string>
     <style name="Base.Theme.Unibites" parent="Theme.Material3.DayNight.NoActionBar">
         

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.unibites.app-mergeDebugResources-43:/values-v16/values-v16.xml",
+            "outputFile": "com.example.unibites.app-mergeDebugResources-42:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\abhir\\.gradle\\caches\\8.11.1\\transforms\\88d1cb5e8e91eac17c66a254a0265d86\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\nares\\.gradle\\caches\\8.11.1\\transforms\\e351f7ca1aafa59830565d3f40cdf79c\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

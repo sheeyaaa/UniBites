@@ -1,186 +1,114 @@
 [
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\drawable_history.png.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\drawable\\history.png"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\drawable_unilogo.jpg.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\drawable\\unilogo.jpg"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\color_nav_text_color.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\color\\nav_text_color.xml"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\drawable_app_search.png.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\drawable\\app_search.png"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\drawable_home.png.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\drawable\\home.png"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\drawable_dosa.jpg.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\drawable\\dosa.jpg"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\drawable_food.png.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\drawable\\food.png"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\layout\\activity_sign_up.xml"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\drawable_app_search.png.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\drawable\\app_search.png"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\drawable_rating_background.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\drawable\\rating_background.xml"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\drawable_unilogo.png.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\drawable\\unilogo.png"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\layout\\activity_splash.xml"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\layout_activity_splash.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\layout\\activity_splash.xml"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\drawable_input_field_background.xml.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\drawable\\input_field_background.xml"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\drawable_input_field_background.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\drawable\\input_field_background.xml"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\layout_fragment_history.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\layout\\fragment_history.xml"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\layout\\fragment_home.xml"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\drawable_circle_white.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\drawable\\circle_white.xml"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\drawable_edit_text_background.xml.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\drawable\\edit_text_background.xml"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.unibites.app-debug-44:/layout_activity_login.xml.flat",
+        "source": "com.example.unibites.app-main-46:/layout/activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\layout_fragment_food.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\layout\\fragment_food.xml"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\drawable_unilogo.png.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\drawable\\unilogo.png"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\drawable_dosa.jpg.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\drawable\\dosa.jpg"
+        "merged": "com.example.unibites.app-debug-44:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.unibites.app-main-46:/layout/activity_sign_up.xml"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\layout_product_card_item.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\layout\\product_card_item.xml"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\color_nav_icon_color.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\color\\nav_icon_color.xml"
-    },
-    {
-        "merged": "com.example.unibites.app-debug-45:/layout_product_card_item.xml.flat",
-        "source": "com.example.unibites.app-main-47:/layout/product_card_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\drawable\\ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\drawable_search.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\drawable\\search.xml"
-    },
-    {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\drawable_cart.png.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\drawable\\cart.png"
-    },
-    {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\mipmap-hdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\drawable_ic_star.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\drawable\\ic_star.xml"
-    },
-    {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\menu_bottom_nav_menu.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\menu\\bottom_nav_menu.xml"
-    },
-    {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\drawable_search_background.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\drawable\\search_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\mipmap-mdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\drawable_edit_text_background.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\drawable\\edit_text_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\layout_fragment_cart.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\layout\\fragment_cart.xml"
-    },
-    {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\drawable_notification.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\drawable\\notification.xml"
-    },
-    {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\drawable_chilli_biryani.jpeg.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\drawable\\chilli_biryani.jpeg"
-    },
-    {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\layout\\activity_login.xml"
-    },
-    {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\drawable_rounded_button_background.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\drawable\\rounded_button_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\layout_activity_sign_up.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\layout\\activity_sign_up.xml"
-    },
-    {
-        "merged": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-45:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\abhir\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-47:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-debug-44:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nares\\.gradle\\daemon\\8.11.1\\com.example.unibites.app-main-46:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     }
 ]
