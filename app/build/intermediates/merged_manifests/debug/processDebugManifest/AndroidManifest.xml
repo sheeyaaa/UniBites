@@ -39,19 +39,28 @@
         android:testOnly="true"
         android:theme="@style/Theme.Unibites" >
         <activity
+            android:name="com.example.unibites.FruitscornerActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.unibites.QcafeActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.unibites.SmoothiesActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.unibites.OrderDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.unibites.CheckoutActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.unibites.PaymentActivity"
             android:exported="false" />
         <activity
             android:name="com.example.unibites.SignUpActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.unibites.ProfileActivity"
-            android:exported="false" />
-        <activity
             android:name="com.example.unibites.LoginActivity"
-            android:exported="false" />
-        <activity
-            android:name="com.example.unibites.OpenActivity"
             android:exported="false" />
         <activity
             android:name="com.example.unibites.SplashActivity"
@@ -68,9 +77,6 @@
             android:exported="true" > <!-- Make sure this is true -->
             <!-- No intent-filter here anymore -->
         </activity>
-        <activity
-            android:name="com.example.unibites.OpenActivity"
-            android:exported="false" />
         <activity
             android:name="com.google.firebase.auth.internal.GenericIdpActivity"
             android:excludeFromRecents="true"
