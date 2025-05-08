@@ -1,7 +1,0 @@
-com.example.unibites.test.app-core-1.5.0-0 C:\Users\nares\.gradle\caches\8.11.1\transforms\58d2cd1d3517cc5a8596c264e9cd440a\transformed\core-1.5.0\res
-com.example.unibites.test.app-annotation-experimental-1.4.1-1 C:\Users\nares\.gradle\caches\8.11.1\transforms\a7c30818e53c899f468e001647352ba6\transformed\annotation-experimental-1.4.1\res
-com.example.unibites.test.app-tracing-1.2.0-2 C:\Users\nares\.gradle\caches\8.11.1\transforms\c17c1010bd1ec9ad2da17441168982df\transformed\tracing-1.2.0\res
-com.example.unibites.test.app-androidTest-3 C:\Users\nares\Desktop\JAVA\MAD SEM4\Unibites\app\build\generated\res\resValues\androidTest\debug
-com.example.unibites.test.app-mergeDebugAndroidTestResources-4 C:\Users\nares\Desktop\JAVA\MAD SEM4\Unibites\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.unibites.test.app-mergeDebugAndroidTestResources-5 C:\Users\nares\Desktop\JAVA\MAD SEM4\Unibites\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.unibites.test.app-debugAndroidTest-6 C:\Users\nares\Desktop\JAVA\MAD SEM4\Unibites\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
