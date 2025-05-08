@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.example.unibites.app-release-44:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.unibites.app-main-45:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.unibites.app-release-44:/drawable_dosa.jpg.flat",
+        "source": "com.example.unibites.app-main-45:/drawable/dosa.jpg"
+    },
+    {
+        "merged": "com.example.unibites.app-release-44:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.unibites.app-main-45:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.unibites.app-release-44:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.unibites.app-main-45:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.unibites.app-release-44:/drawable_input_field_background.xml.flat",
+        "source": "com.example.unibites.app-main-45:/drawable/input_field_background.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-release-44:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.unibites.app-main-45:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.unibites.app-release-44:/layout_activity_splash.xml.flat",
+        "source": "com.example.unibites.app-main-45:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-release-44:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.unibites.app-main-45:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.unibites.app-release-44:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.unibites.app-main-45:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-release-44:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.unibites.app-main-45:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.unibites.app-release-44:/layout_activity_login.xml.flat",
+        "source": "com.example.unibites.app-main-45:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-release-44:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.unibites.app-main-45:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-release-44:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.unibites.app-main-45:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.unibites.app-release-44:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.unibites.app-main-45:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.unibites.app-release-44:/drawable_unilogo.png.flat",
+        "source": "com.example.unibites.app-main-45:/drawable/unilogo.png"
+    },
+    {
+        "merged": "com.example.unibites.app-release-44:/drawable_app_search.png.flat",
+        "source": "com.example.unibites.app-main-45:/drawable/app_search.png"
+    },
+    {
+        "merged": "com.example.unibites.app-release-44:/drawable_edit_text_background.xml.flat",
+        "source": "com.example.unibites.app-main-45:/drawable/edit_text_background.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-release-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.unibites.app-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-release-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.unibites.app-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-release-44:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.unibites.app-main-45:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-release-44:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.unibites.app-main-45:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-release-44:/xml_backup_rules.xml.flat",
+        "source": "com.example.unibites.app-main-45:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.unibites.app-release-44:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.unibites.app-main-45:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.unibites.app-release-44:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.unibites.app-main-45:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.unibites.app-release-44:/layout_activity_main.xml.flat",
+        "source": "com.example.unibites.app-main-45:/layout/activity_main.xml"
+    }
+]

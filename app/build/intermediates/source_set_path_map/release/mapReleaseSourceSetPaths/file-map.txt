@@ -1,0 +1,47 @@
+com.example.unibites.app-play-services-basement-18.5.0-0 C:\Users\nares\.gradle\caches\8.11.1\transforms\09423357f087b3fe7234ed81c8fbb739\transformed\play-services-basement-18.5.0\res
+com.example.unibites.app-play-services-auth-21.1.1-1 C:\Users\nares\.gradle\caches\8.11.1\transforms\0970cf3ce61cd660605839bf7ca978d4\transformed\play-services-auth-21.1.1\res
+com.example.unibites.app-lifecycle-viewmodel-savedstate-2.6.2-2 C:\Users\nares\.gradle\caches\8.11.1\transforms\133d52cce8fb1c7c09f45c30b809cd29\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.unibites.app-viewpager2-1.0.0-3 C:\Users\nares\.gradle\caches\8.11.1\transforms\1713c8a0de711e693eac6226dc322df2\transformed\viewpager2-1.0.0\res
+com.example.unibites.app-startup-runtime-1.1.1-4 C:\Users\nares\.gradle\caches\8.11.1\transforms\1b9ca46cb95786b7d32202f8b6ff5cbe\transformed\startup-runtime-1.1.1\res
+com.example.unibites.app-activity-1.10.1-5 C:\Users\nares\.gradle\caches\8.11.1\transforms\31f386c4201c8331a270d7527ba9adda\transformed\activity-1.10.1\res
+com.example.unibites.app-core-runtime-2.2.0-6 C:\Users\nares\.gradle\caches\8.11.1\transforms\36d4067feb02c987ec1549613fd85455\transformed\core-runtime-2.2.0\res
+com.example.unibites.app-credentials-1.5.0-7 C:\Users\nares\.gradle\caches\8.11.1\transforms\3ec1304738b9efc96137658179ed1860\transformed\credentials-1.5.0\res
+com.example.unibites.app-transition-1.2.0-8 C:\Users\nares\.gradle\caches\8.11.1\transforms\42d15cf3f686c4fb4ce2cddd7917acc5\transformed\transition-1.2.0\res
+com.example.unibites.app-cardview-1.0.0-9 C:\Users\nares\.gradle\caches\8.11.1\transforms\4a889a593389fb8fb8ce94c5dd7e0bed\transformed\cardview-1.0.0\res
+com.example.unibites.app-biometric-1.1.0-10 C:\Users\nares\.gradle\caches\8.11.1\transforms\52e3d75ed346a466517c5335063b880a\transformed\biometric-1.1.0\res
+com.example.unibites.app-lifecycle-process-2.6.2-11 C:\Users\nares\.gradle\caches\8.11.1\transforms\5897745b9ac7b3c216f8c0cab9212f04\transformed\lifecycle-process-2.6.2\res
+com.example.unibites.app-core-ktx-1.15.0-12 C:\Users\nares\.gradle\caches\8.11.1\transforms\59928d3fb0cc8d7be0ccc0942890a486\transformed\core-ktx-1.15.0\res
+com.example.unibites.app-appcompat-resources-1.6.1-13 C:\Users\nares\.gradle\caches\8.11.1\transforms\5a15e7c961f18dc2e44766ec1c208d4a\transformed\appcompat-resources-1.6.1\res
+com.example.unibites.app-core-1.15.0-14 C:\Users\nares\.gradle\caches\8.11.1\transforms\5cc9d158f0575b4a285a4c33c10ee7f9\transformed\core-1.15.0\res
+com.example.unibites.app-drawerlayout-1.1.1-15 C:\Users\nares\.gradle\caches\8.11.1\transforms\649790efa36e7b6ce393fa99a2e6aad8\transformed\drawerlayout-1.1.1\res
+com.example.unibites.app-core-common-2.0.3-16 C:\Users\nares\.gradle\caches\8.11.1\transforms\75c446fefff3f119a4bb30ed457abfae\transformed\core-common-2.0.3\res
+com.example.unibites.app-lifecycle-livedata-core-2.6.2-17 C:\Users\nares\.gradle\caches\8.11.1\transforms\7f0ec9c313f7ef4e9e81d7d3870d8013\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.unibites.app-play-services-base-18.5.0-18 C:\Users\nares\.gradle\caches\8.11.1\transforms\87d7a68aaa9f4243f35d5a0e8e7cfaa1\transformed\play-services-base-18.5.0\res
+com.example.unibites.app-coordinatorlayout-1.1.0-19 C:\Users\nares\.gradle\caches\8.11.1\transforms\8aa33519278950e2034afdfb982552a8\transformed\coordinatorlayout-1.1.0\res
+com.example.unibites.app-core-viewtree-1.0.0-20 C:\Users\nares\.gradle\caches\8.11.1\transforms\8ba34c34f05953fc8d938416ff995c4d\transformed\core-viewtree-1.0.0\res
+com.example.unibites.app-recyclerview-1.1.0-21 C:\Users\nares\.gradle\caches\8.11.1\transforms\8e0faf6dd13b7d53bedb2007e5275b4d\transformed\recyclerview-1.1.0\res
+com.example.unibites.app-constraintlayout-2.1.4-22 C:\Users\nares\.gradle\caches\8.11.1\transforms\92753a99cee999a821c3fd266d7359a8\transformed\constraintlayout-2.1.4\res
+com.example.unibites.app-annotation-experimental-1.4.1-23 C:\Users\nares\.gradle\caches\8.11.1\transforms\a7c30818e53c899f468e001647352ba6\transformed\annotation-experimental-1.4.1\res
+com.example.unibites.app-ads-adservices-1.1.0-beta11-24 C:\Users\nares\.gradle\caches\8.11.1\transforms\ab9af1519200755a0baf7aaa2550c12c\transformed\ads-adservices-1.1.0-beta11\res
+com.example.unibites.app-ads-adservices-java-1.1.0-beta11-25 C:\Users\nares\.gradle\caches\8.11.1\transforms\aeac9e93e2b9c45f1b94db239f77ce81\transformed\ads-adservices-java-1.1.0-beta11\res
+com.example.unibites.app-fragment-1.5.7-26 C:\Users\nares\.gradle\caches\8.11.1\transforms\b5a1f72c6d63e4cf1b2f0e59ee86c03a\transformed\fragment-1.5.7\res
+com.example.unibites.app-tracing-1.2.0-27 C:\Users\nares\.gradle\caches\8.11.1\transforms\c17c1010bd1ec9ad2da17441168982df\transformed\tracing-1.2.0\res
+com.example.unibites.app-lifecycle-viewmodel-2.6.2-28 C:\Users\nares\.gradle\caches\8.11.1\transforms\c21cdcb2ca64eb84f4d97270e6f0bb43\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.unibites.app-material-1.10.0-29 C:\Users\nares\.gradle\caches\8.11.1\transforms\ca25cb3ca0cecabc96ad1af87a1a03d4\transformed\material-1.10.0\res
+com.example.unibites.app-browser-1.4.0-30 C:\Users\nares\.gradle\caches\8.11.1\transforms\d39185c65e6b55fe5af86c89534a38ac\transformed\browser-1.4.0\res
+com.example.unibites.app-credentials-play-services-auth-1.5.0-31 C:\Users\nares\.gradle\caches\8.11.1\transforms\d9095fc4b0d5ada2be118e77c925b1ac\transformed\credentials-play-services-auth-1.5.0\res
+com.example.unibites.app-savedstate-1.2.1-32 C:\Users\nares\.gradle\caches\8.11.1\transforms\dcab2c41e02d30bac18ff289d291957a\transformed\savedstate-1.2.1\res
+com.example.unibites.app-profileinstaller-1.4.0-33 C:\Users\nares\.gradle\caches\8.11.1\transforms\dd52436868419cd28863abae3b6c93a0\transformed\profileinstaller-1.4.0\res
+com.example.unibites.app-appcompat-1.6.1-34 C:\Users\nares\.gradle\caches\8.11.1\transforms\e351f7ca1aafa59830565d3f40cdf79c\transformed\appcompat-1.6.1\res
+com.example.unibites.app-emoji2-views-helper-1.2.0-35 C:\Users\nares\.gradle\caches\8.11.1\transforms\e8c6de5603498e8287df9f29f45b0b30\transformed\emoji2-views-helper-1.2.0\res
+com.example.unibites.app-firebase-common-21.0.0-36 C:\Users\nares\.gradle\caches\8.11.1\transforms\e9bc0060d198cea1cc742222ee504fbb\transformed\firebase-common-21.0.0\res
+com.example.unibites.app-lifecycle-runtime-2.6.2-37 C:\Users\nares\.gradle\caches\8.11.1\transforms\ef8bc7c732f77b12903666f8e5645074\transformed\lifecycle-runtime-2.6.2\res
+com.example.unibites.app-emoji2-1.2.0-38 C:\Users\nares\.gradle\caches\8.11.1\transforms\f428324341b1dfd80c9c96ef903a399e\transformed\emoji2-1.2.0\res
+com.example.unibites.app-pngs-39 C:\Users\nares\Desktop\JAVA\MAD SEM4\Unibites\app\build\generated\res\pngs\release
+com.example.unibites.app-res-40 C:\Users\nares\Desktop\JAVA\MAD SEM4\Unibites\app\build\generated\res\processReleaseGoogleServices
+com.example.unibites.app-resValues-41 C:\Users\nares\Desktop\JAVA\MAD SEM4\Unibites\app\build\generated\res\resValues\release
+com.example.unibites.app-packageReleaseResources-42 C:\Users\nares\Desktop\JAVA\MAD SEM4\Unibites\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.example.unibites.app-packageReleaseResources-43 C:\Users\nares\Desktop\JAVA\MAD SEM4\Unibites\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.example.unibites.app-release-44 C:\Users\nares\Desktop\JAVA\MAD SEM4\Unibites\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.example.unibites.app-main-45 C:\Users\nares\Desktop\JAVA\MAD SEM4\Unibites\app\src\main\res
+com.example.unibites.app-release-46 C:\Users\nares\Desktop\JAVA\MAD SEM4\Unibites\app\src\release\res
